@@ -1,0 +1,6 @@
+Comanda realziata cu succes, id 26. Produsele din cos:
+BaseProduct{title='Compus', rating=4.375, calories=1575, protein=107, fat=114, sodium=1095, price=104}
+BaseProduct{title='"Smoked Fish with Cucumber ""Noodles"" "', rating=2.5, calories=234, protein=26, fat=9, sodium=835, price=12}
+BaseProduct{title='Arugula and Smoked Mozzarella Salad with Lemon Vinaigrette ', rating=3.75, calories=255, protein=11, fat=21, sodium=307, price=96}
+BaseProduct{title='Apple and Smoked-Bacon Salad with Lychees and Chili Nuts ', rating=3.75, calories=362, protein=10, fat=21, sodium=558, price=18}
+Pret: 230

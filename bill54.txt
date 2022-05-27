@@ -1,0 +1,4 @@
+Comanda realziata cu succes, id 54. Produsele din cos:
+BaseProduct{title='Age of Lincoln Almond-Streusel Bundt Cake with Coffee Glaze ', rating=4.375, calories=883, protein=51, fat=59, sodium=497, price=95}
+BaseProduct{title='Amaretto Chocolate Pudding ', rating=3.75, calories=335, protein=4, fat=12, sodium=271, price=13}
+Pret: 108

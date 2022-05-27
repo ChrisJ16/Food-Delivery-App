@@ -1,0 +1,4 @@
+Comanda realziata cu succes, id 94. Produsele din cos:
+BaseProduct{title='"Apple ""Pizza"" "', rating=3.75, calories=234, protein=6, fat=11, sodium=201, price=21}
+BaseProduct{title='"""Virgin Mary"" Aspic "', rating=0.0, calories=180, protein=5, fat=11, sodium=479, price=78}
+Pret: 99
